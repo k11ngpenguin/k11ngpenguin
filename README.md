@@ -1,11 +1,9 @@
-<h1 align="center"> penguin
+<h1 align="center"> i'm penguin
   
 </h1>
 
-
-
 <br>
-I am apart of the software team of FTC Team 23279 and enjoy doing random projects for fun
+Programmer for FTC Team 23279 and I play around with technology 
 
 ## Languages
 
