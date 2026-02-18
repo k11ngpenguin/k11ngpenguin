@@ -20,4 +20,10 @@ Programmer for FTC Team 23279 and I play around with technology
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![FTC SDK](https://img.shields.io/badge/FTC_SDK-0033A0?style=for-the-badge)
+![Road Runner](https://img.shields.io/badge/Road_Runner-Motion_Planning-orange?style=for-the-badge)
+![REV Hardware](https://img.shields.io/badge/REV_Robotics-Hardware-red?style=for-the-badge)
+![Limelight](https://img.shields.io/badge/Limelight-Computer_Vision-brightgreen?style=for-the-badge)
+![EasyOpenCV](https://img.shields.io/badge/EasyOpenCV-OpenCV-blueviolet?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-Build_System-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
